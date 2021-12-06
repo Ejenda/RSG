@@ -17,6 +17,6 @@
     "@tailwindcss/custom-forms": "^0.2.1",
     "eslint-config-prettier": "^8.3.0",
     "postcss": "^8.3.11",
-    "prettier": "^2.4.1"
+    "prettier": "^2.5.1"
   }
 }
